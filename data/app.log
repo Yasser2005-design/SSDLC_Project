@@ -1,0 +1,59 @@
+2026-07-14T20:52:05 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T20:52:16 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T20:52:16 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T20:52:16 | INFO     | certiguard.app | New user registered: testuser_sec
+2026-07-14T20:52:16 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T20:52:17 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T20:52:17 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T20:52:18 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T20:52:18 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T20:52:18 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T20:52:18 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T20:52:29 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T20:52:29 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T20:52:29 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T20:52:29 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T20:52:29 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T20:52:29 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T20:52:29 | INFO     | certiguard.app | New user registered: teststrong2
+2026-07-14T22:06:59 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T22:07:49 | DEBUG    | certiguard.app | [Hasher] SHA-256 computed in 1413.85 ms | hash_prefix=680a60d93d701c12...
+2026-07-14T22:07:49 | DEBUG    | certiguard.app | [Signer] RSA-2048 keypair generated in 53.24 ms
+2026-07-14T22:07:49 | DEBUG    | certiguard.app | [Signer] Private key saved: ndss2021_1B-4_24117_paper_private.pem
+2026-07-14T22:07:49 | DEBUG    | certiguard.app | [Signer] Public key saved: ndss2021_1B-4_24117_paper_public.pem
+2026-07-14T22:07:49 | DEBUG    | certiguard.app | [Signer] Hash signed (RSA-PSS-SHA256) in 5.64 ms
+2026-07-14T22:07:49 | DEBUG    | certiguard.app | [QR Manager] Payload created for signer: Temouse
+2026-07-14T22:07:50 | DEBUG    | certiguard.app | [QR Manager] QR Code saved (version 33): cg_qr_ndss2021_1B-4_24117_paper.png
+2026-07-14T22:07:51 | DEBUG    | certiguard.app | [PDF Embedder] Signature page appended at 'bottom-right': ndss2021_1B-4_24117_paper_signed.pdf
+2026-07-14T22:07:55 | DEBUG    | certiguard.app | [Hasher] SHA-256 computed in 394.77 ms | hash_prefix=680a60d93d701c12...
+2026-07-14T22:07:55 | DEBUG    | certiguard.app | [Signer] RSA-2048 keypair generated in 59.99 ms
+2026-07-14T22:07:55 | DEBUG    | certiguard.app | [Signer] Private key saved: ndss2021_1B-4_24117_paper_private.pem
+2026-07-14T22:07:55 | DEBUG    | certiguard.app | [Signer] Public key saved: ndss2021_1B-4_24117_paper_public.pem
+2026-07-14T22:07:55 | DEBUG    | certiguard.app | [Signer] Hash signed (RSA-PSS-SHA256) in 1.70 ms
+2026-07-14T22:07:55 | DEBUG    | certiguard.app | [QR Manager] Payload created for signer: Temouse
+2026-07-14T22:07:55 | DEBUG    | certiguard.app | [QR Manager] QR Code saved (version 33): cg_qr_ndss2021_1B-4_24117_paper.png
+2026-07-14T22:07:57 | DEBUG    | certiguard.app | [PDF Embedder] Signature page appended at 'bottom-right': ndss2021_1B-4_24117_paper_signed.pdf
+2026-07-14T22:08:08 | DEBUG    | certiguard.app | [PDF Embedder] QR Code found on page 18: ndss2021_1B-4_24117_paper_signed.pdf
+2026-07-14T22:08:08 | DEBUG    | certiguard.app | [QR Manager] Payload decoded - signer: Temouse, version: 2.0
+2026-07-14T22:08:09 | DEBUG    | certiguard.app | [Hasher] SHA-256 computed in 451.26 ms | hash_prefix=e3f33b5d1e6ad547...
+2026-07-14T22:14:05 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T22:14:35 | DEBUG    | certiguard.app | [Hasher] SHA-256 computed in 593.77 ms | hash_prefix=3ec503461fac088c...
+2026-07-14T22:14:36 | DEBUG    | certiguard.app | [Signer] RSA-2048 keypair generated in 97.31 ms
+2026-07-14T22:14:36 | DEBUG    | certiguard.app | [Signer] Private key saved: The development of signing and verification methods for high speed digital signatures on electronic official documents by using RSA cryptography_private.pem
+2026-07-14T22:14:36 | DEBUG    | certiguard.app | [Signer] Public key saved: The development of signing and verification methods for high speed digital signatures on electronic official documents by using RSA cryptography_public.pem
+2026-07-14T22:14:36 | DEBUG    | certiguard.app | [Signer] Hash signed (RSA-PSS-SHA256) in 1.95 ms
+2026-07-14T22:14:36 | DEBUG    | certiguard.app | [QR Manager] Payload created for signer: sigit
+2026-07-14T22:14:36 | DEBUG    | certiguard.app | [QR Manager] QR Code saved (version 32): cg_qr_The development of signing and verification methods for high speed digital signatures on electronic official documents by using RSA cryptography.png
+2026-07-14T22:14:37 | DEBUG    | certiguard.app | [PDF Embedder] Signature page appended at 'bottom-right': The development of signing and verification methods for high speed digital signatures on electronic official documents by using RSA cryptography_signed.pdf
+2026-07-14T22:14:54 | DEBUG    | certiguard.app | [PDF Embedder] QR Code found on page 18: The development of signing and verification methods for high speed digital signatures on electronic official documents by using RSA cryptography_signed.pdf
+2026-07-14T22:14:54 | DEBUG    | certiguard.app | [QR Manager] Payload decoded - signer: sigit, version: 2.0
+2026-07-14T22:14:55 | DEBUG    | certiguard.app | [Hasher] SHA-256 computed in 366.00 ms | hash_prefix=3ec503461fac088c...
+2026-07-14T22:14:55 | DEBUG    | certiguard.app | [Signer] Public key loaded: The development of signing and verification methods for high speed digital signatures on electronic official documents by using RSA cryptography_public.pem
+2026-07-14T22:14:55 | DEBUG    | certiguard.app | [Signer] Signature verification: VALID (0.45 ms)
+2026-07-14T22:21:38 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T22:24:54 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T22:24:56 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T22:27:00 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T22:29:20 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)
+2026-07-14T22:29:21 | INFO     | certiguard.app | New user registered: GoyangUpinIpin
+2026-07-14T22:30:43 | DEBUG    | certiguard.app | Database schema initialized (WAL mode enabled)

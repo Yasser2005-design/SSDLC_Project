@@ -1,0 +1,9 @@
+customtkinter>=5.2.0
+cryptography>=41.0.0
+pypdf>=3.15.0
+reportlab>=4.0
+qrcode[pil]>=7.4
+Pillow>=10.0
+PyMuPDF>=1.23.0
+pyzbar>=0.1.9
+bcrypt>=4.0.0

@@ -1,0 +1,1 @@
+# CertiGuard Utils — PDF utilities

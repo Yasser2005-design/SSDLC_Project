@@ -1,0 +1,35 @@
+2026-07-14T20:52:06+0700 | INFO     | APP_START | version=1.1.0-test
+2026-07-14T20:52:17+0700 | INFO     | AUTH_LOGIN | user=testuser_sec | status=FAILURE | reason=wrong_password
+2026-07-14T20:52:17+0700 | INFO     | AUTH_LOGIN | user=testuser_sec | status=FAILURE | reason=wrong_password
+2026-07-14T20:52:18+0700 | INFO     | AUTH_LOGIN | user=testuser_sec | status=FAILURE | reason=wrong_password
+2026-07-14T20:52:18+0700 | INFO     | AUTH_LOGIN | user=testuser_sec | status=FAILURE | reason=wrong_password
+2026-07-14T20:52:18+0700 | INFO     | AUTH_LOGIN | user=testuser_sec | status=FAILURE | reason=wrong_password
+2026-07-14T20:52:18+0700 | WARNING  | AUTH_LOCKOUT | user=testuser_sec | attempts=5
+2026-07-14T20:52:18+0700 | WARNING  | AUTH_LOCKOUT | user=testuser_sec | attempts=5
+2026-07-14T22:06:49+0700 | INFO     | APP_START | version=1.1.0
+2026-07-14T22:06:59+0700 | INFO     | AUTH_LOGIN | user=admin | status=SUCCESS
+2026-07-14T22:07:51+0700 | INFO     | DOC_SIGN | user=admin | doc=ndss2021_1B-4_24117_paper.pdf | hash_prefix=680a60d93d701c12... | status=SUCCESS
+2026-07-14T22:07:57+0700 | INFO     | DOC_SIGN | user=admin | doc=ndss2021_1B-4_24117_paper.pdf | hash_prefix=680a60d93d701c12... | status=SUCCESS
+2026-07-14T22:10:34+0700 | INFO     | APP_STOP
+2026-07-14T22:13:55+0700 | INFO     | APP_START | version=1.1.0
+2026-07-14T22:14:06+0700 | INFO     | AUTH_LOGIN | user=admin | status=SUCCESS
+2026-07-14T22:14:37+0700 | INFO     | DOC_SIGN | user=admin | doc=The development of signing and verification methods for high speed digital signatures on electronic official documents by using  | hash_prefix=3ec503461fac088c... | status=SUCCESS
+2026-07-14T22:14:55+0700 | INFO     | DOC_VERIFY | user=admin | doc=The development of signing and verification methods for high speed digital signatures on electronic official documents by using  | result=VALID
+2026-07-14T22:15:07+0700 | INFO     | APP_STOP
+2026-07-14T22:17:00+0700 | INFO     | APP_START | version=1.1.0
+2026-07-14T22:18:56+0700 | INFO     | APP_STOP
+2026-07-14T22:18:59+0700 | INFO     | APP_START | version=1.1.0
+2026-07-14T22:20:26+0700 | INFO     | APP_STOP
+2026-07-14T22:20:31+0700 | INFO     | APP_START | version=1.1.0
+2026-07-14T22:21:07+0700 | INFO     | APP_START | version=1.1.0
+2026-07-14T22:21:38+0700 | INFO     | AUTH_LOGIN | user=admin | status=SUCCESS
+2026-07-14T22:24:43+0700 | INFO     | APP_START | version=1.1.0
+2026-07-14T22:24:54+0700 | INFO     | AUTH_LOGIN | user=admin | status=FAILURE | reason=wrong_password
+2026-07-14T22:24:57+0700 | INFO     | AUTH_LOGIN | user=admin | status=SUCCESS
+2026-07-14T22:26:43+0700 | INFO     | APP_STOP
+2026-07-14T22:26:51+0700 | INFO     | APP_START | version=1.1.0
+2026-07-14T22:27:00+0700 | INFO     | AUTH_LOGIN | user=admin | status=SUCCESS
+2026-07-14T22:27:38+0700 | INFO     | APP_STOP
+2026-07-14T22:29:51+0700 | INFO     | APP_START | version=1.1.0
+2026-07-14T22:30:43+0700 | INFO     | AUTH_LOGIN | user=GoyangUpinIpin | status=SUCCESS
+2026-07-14T22:34:08+0700 | INFO     | APP_STOP

@@ -1,0 +1,1 @@
+# CertiGuard Core — Cryptographic modules
